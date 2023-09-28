@@ -44,9 +44,5 @@ public class MainGame {
 				System.out.println("You LOSE!");
 				System.out.println("The number to guess was: " + randomNumber);
 		}
-		
-		
 	}
-
-
 }
